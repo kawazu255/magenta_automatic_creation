@@ -1,0 +1,2 @@
+# magenta_automatic_creation
+Google Magentaを用いた音楽の自動生成スクリプト
