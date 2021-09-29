@@ -1,0 +1,11 @@
+# スクリプト内で生成されるファイルは除外
+src/composition.mid
+src/composition.mp3
+src/generate/archive/
+src/generate/composition/
+src/generate/drums/
+src/generate/improv/
+src/generate/play/
+src/generate/SGM-V2.01.sf2
+src/generate/chord_pitches_improv.mag
+src/generate/drum_kit_rnn.mag
